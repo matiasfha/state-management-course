@@ -1,6 +1,9 @@
-- # React hooks and how React is a state management solution.
+# React hooks and how React is a state management solution.
 
-# Stories
+## Mind Map
+https://miro.com/app/board/o9J_lA09zN0=/
+
+## Stories
 
 - As a learner I want to understand how React manage the application state
    - What tools are part of the library?
